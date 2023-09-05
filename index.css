@@ -103,6 +103,7 @@ body {
     height: 50vh;
     text-transform: capitalize;
     padding-right: 3px;
+     overflow: scroll;
 
 
 }
